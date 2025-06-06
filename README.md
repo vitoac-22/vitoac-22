@@ -29,7 +29,7 @@
 <br>
 </div>
 
-<picture> <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3FydXQ0cmdyZW85c3owM3BmMG5ybnExZXhxcXE4a3ZudXBuZm9xcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MbFaRTRxoucfCbmLSZ/giphy.gif" width = 250px></picture>
+<picture> <img align="right" src="https://imarticus.org/blog/wp-content/uploads/2020/06/bh.gif" width = 250px></picture>
 
 📚 **Data Science & AI Scholar** | 🔢 **Math & Stats Specialist** | 🤖 **ML Enthusiast**
 
