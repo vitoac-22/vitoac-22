@@ -62,6 +62,6 @@ I'm passionate about transforming raw data into meaningful insights through the 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=vito-ac22&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/vito-ac22)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=vito-ac22&theme=material-palenight)](https://github.com/vito-ac22)
+[![](https://github-readme-stats.vercel.app/api?username=vitoac-22&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/vitoac-22)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=vitoac-22&theme=material-palenight)](https://github.com/vitoac-22)
 </div>
