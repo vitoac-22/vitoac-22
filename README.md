@@ -29,6 +29,10 @@
 <br>
 </div>
 
+📚 **Data Science & AI Scholar** | 🔢 **Math & Stats Specialist** | 🤖 **ML Enthusiast**
+
+I'm passionate about transforming raw data into meaningful insights through the power of mathematics and machine learning. With strong foundations in statistical modeling and mathematical optimization, I'm now diving deep into artificial intelligence to build intelligent systems that solve real-world problems.
+
 ### 🛠 &nbsp;Tech Stack
 
 #### 🔧 Languages
