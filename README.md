@@ -59,4 +59,9 @@ I'm passionate about transforming raw data into meaningful insights through the 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
+[![](https://github-readme-stats.vercel.app/api?username=vito-ac22&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/vito-ac22)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=vito-ac22&theme=material-palenight)](https://github.com/vito-ac22)
+</div>
