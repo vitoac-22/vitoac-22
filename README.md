@@ -28,10 +28,7 @@
   <a href="TU_ENLACE_MEDIUM_AQUÍ">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
-  <a href="TU_ENLACE_LINKEDIN_AQUÍ">
+  <a href="www.linkedin.com/in/erick-ac">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="TU_ENLACE_TWITTER_AQUÍ">
-    <img src="https://img.shields.io/twitter/follow/Manoj_0863?color=1DA1F2&logo=Twitter&style=for-the-badge" alt="Twitter Follow">
   </a>
 </div>
