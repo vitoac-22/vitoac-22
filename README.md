@@ -3,13 +3,13 @@
 </div>
 
 <div align="center">
-  <img src="https://www.linkedin.com/in/victorbustos-stats/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4RLkgno%2BTr6S%2BILSTQV7Pg%3D%3D" width="180" style="border-radius: 50%;" alt="Víctor E. Acaro B. Profile Picture">
+  <img src="https://media.licdn.com/dms/image/v2/D4E03AQF4RX_GPTcx9Q/profile-displayphoto-crop_800_800/B4EZze8s3nHYAI-/0/1773266983130?e=1775088000&v=beta&t=lP7VlC5Dbe4JmcN04de7Qi8vqjFDS66ZnYVPFIAl-j8" width="180" style="border-radius: 50%; border: 3px solid #714B67;" alt="Víctor E. Acaro B.">
   
   <h1>Víctor E. Acaro B.</h1>
   
   <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist%20%26%20AI%20Strategist;Predictive%20%26%20Prescriptive%20Analytics;Quantitative%20Finance%20Enthusiast;Building%20Antifragile%20Systems&font=Fira%20Code&center=true&width=440&height=45">
+    <a href="https://github.com/vitoac-22">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Architect%20of%20Intelligent%20Systems;Engineering%20Antifragile%20Solutions;Predictive%20%26%20Prescriptive%20Assets;Quantitative%20Finance%20%26%20Scalability&font=Fira%20Code&center=true&width=500&height=45&color=714B67">
     </a>
   </p>
 
@@ -24,30 +24,35 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/vitoac-22">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=vitoac-22.vitoac-22&label=Visitors" alt="Visitors">
-  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vitoac-22.vitoac-22&label=Profile%20Views&color=714B67" alt="Visitors">
 </p>
 
 ---
 
-### 🚀 Professional Profile
-I architect high-impact data solutions by bridging the gap between rigorous mathematics and actionable Artificial Intelligence. With a strong foundation in **Statistics (EPN)** and **AI (UNACH)**, I specialize in transforming raw data into **prescriptive strategies** and automated workflows.
+### 🏛️ Knowledge Architect & AI Engineer
+I don't just analyze data; I build the **logical infrastructure** that drives decisions. My focus is the creation of **Antifragile Systems**: digital assets that improve under volatility and automate the transition from uncertainty to strategy.
 
-My focus is on **Antifragility**—building systems that don't just survive volatility but thrive on it. I leverage Machine Learning and Quantitative Analysis to solve complex business intelligence challenges.
+With a rigorous foundation in **Statistics (EPN)** and **AI (UNACH)**, I architect prescriptive models and automated workflows that transform raw information into scalable competitive advantages.
 
-### 🛠 Tech Stack & Core Competencies
+- 🏗️ **Core Philosophy:** Building tools that people use, not just reports they read.
+- 📈 **Domain Expertise:** Quantitative Finance, Business Automation (Odoo), and Prescriptive Analytics.
+- 🤖 **Strategy:** Leveraging AI to release mental bandwidth and focus on high-impact decision-making.
 
-#### 🔧 Programming & Data Engineering
+---
+
+### 🛠 Technical Assets
+
+#### 🔧 Engineering & Automation
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 🤖 Advanced AI & Modeling
-![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+#### 📊 Modeling & Predictive Intelligence
+![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ---
 
